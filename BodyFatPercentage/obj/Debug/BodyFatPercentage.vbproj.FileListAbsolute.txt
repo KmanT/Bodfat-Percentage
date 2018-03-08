@@ -1,0 +1,11 @@
+c:\users\kyle\Documents\School\Software Engineering\BodyFatPercentage\BodyFatPercentage\bin\Debug\BodyFatPercentage.exe.config
+c:\users\kyle\Documents\School\Software Engineering\BodyFatPercentage\BodyFatPercentage\bin\Debug\BodyFatPercentage.exe
+c:\users\kyle\Documents\School\Software Engineering\BodyFatPercentage\BodyFatPercentage\bin\Debug\BodyFatPercentage.pdb
+c:\users\kyle\Documents\School\Software Engineering\BodyFatPercentage\BodyFatPercentage\bin\Debug\BodyFatPercentage.xml
+c:\users\kyle\Documents\School\Software Engineering\BodyFatPercentage\BodyFatPercentage\obj\Debug\BodyFatPercentage.vbprojResolveAssemblyReference.cache
+c:\users\kyle\Documents\School\Software Engineering\BodyFatPercentage\BodyFatPercentage\obj\Debug\BodyFatPercentage.BodyFat.resources
+c:\users\kyle\Documents\School\Software Engineering\BodyFatPercentage\BodyFatPercentage\obj\Debug\BodyFatPercentage.Resources.resources
+c:\users\kyle\Documents\School\Software Engineering\BodyFatPercentage\BodyFatPercentage\obj\Debug\BodyFatPercentage.vbproj.GenerateResource.Cache
+c:\users\kyle\Documents\School\Software Engineering\BodyFatPercentage\BodyFatPercentage\obj\Debug\BodyFatPercentage.exe
+c:\users\kyle\Documents\School\Software Engineering\BodyFatPercentage\BodyFatPercentage\obj\Debug\BodyFatPercentage.xml
+c:\users\kyle\Documents\School\Software Engineering\BodyFatPercentage\BodyFatPercentage\obj\Debug\BodyFatPercentage.pdb
